@@ -5,6 +5,7 @@
 <main>
 	<h1>Coming Soon!</h1>
 	<p>Bekijk mijn huidige site: <a href="https://derrin.nl">https://derrin.nl</a></p>
+	<p>Te nieuwsgierig geworden? Check: <a href="https://staging.derrin616.dev">https://staging.derrin616.dev</a></p>
 </main>
 
 <style>
